@@ -1,8 +1,5 @@
 # Weeds Detection and Segmentation
-This repository contains the code for my OUR(Opportunities for Undergraduate Research) project at Shiv Nadar University under the supervision of Prof. Jyoti Singh Kirar, Professor at Dept. of Computer Science, Shiv Nadar University. 
-
-You can view the final project report here: [Final Report](https://docs.google.com/document/d/1yffPnYz8fYgYJVYeD-dMnylnXalV5GknPbtPAAnE6ro/edit#heading=h.nj23sjpj5u97)
-
+This repository contains the code for my OUR(Opportunities for Undergraduate Research) project at Shiv Nadar University under the supervision of Dr. Karun Verma, Thapar University.
 ---
 
 # The Dataset
@@ -10,17 +7,6 @@ I used the [Open Sprayer Images Dataset](https://www.kaggle.com/gavinarmstrong/o
 For the Weeds Segmentation task, I created a custom dataset using the same dataset by hand painting binary masks using an Gimp - An image manipulation tool. You can download this dataset [here](https://drive.google.com/open?id=1vbw6itGLk59haxVBjNlXsnOmAbbwlAZy)
 
 ---
-
-# Implementing the Code
-
-* Download the [Open Sprayer Images Dataset](https://www.kaggle.com/gavinarmstrong/open-sprayer-images) and rename it to 'Open_Sprayer_Images_Classification' and add a folder named 'docks_augmented' inside that folder.
-* Download the [Segmentation Dataset](https://drive.google.com/open?id=1vbw6itGLk59haxVBjNlXsnOmAbbwlAZy) and place it inside the 'Dataset' folder.
-* Download the [Trained Weights](https://drive.google.com/open?id=1tjwl0oQxIAkUF_08Qa37WDA3Dc1HtV7x) for the CNN and place it in the 'weights' folder in the 'Code' folder.
-* Download the [Trained Models](https://drive.google.com/open?id=142H87gEpVTG3RgJWGKnstCG5531xDoCF) and place it in the 'models' folder in the 'Code' folder.
-* Run the Jupyter Notebook in the 'Code' Folder
-
----
-
 # References
 1. H. C. Oliveira, V. C. Guizilini, I. P. Nunes and J. R. Souza, "Failure Detection in Row Crops From UAV Images Using Morphological Operators," in IEEE Geoscience and Remote Sensing Letters, vol. 15, no. 7, pp. 991-995, July 2018.
 2. S. Kaur, S. Pandey and S. Goel, "Semi-automatic leaf disease detection and classification system for soybean culture," in IET Image Processing, vol. 12, no. 6, pp. 1038-1048, 6 2018.
