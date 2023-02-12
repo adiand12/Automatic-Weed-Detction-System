@@ -1,11 +1,9 @@
 # Weeds Detection and Segmentation
-This repository contains the code for my OUR(Opportunities for Undergraduate Research) project at Shiv Nadar University under the supervision of Dr. Karun Verma, Thapar University.
+This repository contains the code for my capstone project(final year project) under the supervision of Dr. Karun Verma, Thapar University.
 ---
 
 # The Dataset
 I used the [Open Sprayer Images Dataset](https://www.kaggle.com/gavinarmstrong/open-sprayer-images) on Kaggle for the project. I used this dataset with some data augmentation for the purpose of Weeds Classification.
-For the Weeds Segmentation task, I created a custom dataset using the same dataset by hand painting binary masks using an Gimp - An image manipulation tool. You can download this dataset [here](https://drive.google.com/open?id=1vbw6itGLk59haxVBjNlXsnOmAbbwlAZy)
-
 ---
 # References
 1. H. C. Oliveira, V. C. Guizilini, I. P. Nunes and J. R. Souza, "Failure Detection in Row Crops From UAV Images Using Morphological Operators," in IEEE Geoscience and Remote Sensing Letters, vol. 15, no. 7, pp. 991-995, July 2018.
